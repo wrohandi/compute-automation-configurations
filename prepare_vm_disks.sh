@@ -31,7 +31,7 @@
 
 
 # Base path for data disk mount points
-DATA_BASE="/datadisks"
+DATA_BASE="/var"
 # Mount options for data disk
 MOUNT_OPTIONS="noatime,nodiratime,nodev,noexec,nosuid,nofail"
 
